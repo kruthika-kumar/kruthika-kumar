@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I love making sense of the world through data. 
+
+- Work :office:: fintech analytics 
+- Other interest :eyes: : sports analytics
+- Learning 🌱: NLP for code-mixed text (last project), data warehouse design 
+- Reach me 📫: bookies.litany-00@icloud.com
+
 <!--
 **kruthika-kumar/kruthika-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
