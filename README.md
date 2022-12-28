@@ -3,7 +3,7 @@
 I love making sense of the world through data. 
 
 - Work :office:: fintech analytics 
-- Other interest :eyes: : sports analytics
+- Other interest :eyes: : sports analytics (football, cricket, basketball)
 - Learning 🌱: NLP for code-mixed text (last project), data warehouse design 
 - Reach me 📫: bookies.litany-00@icloud.com
 
