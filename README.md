@@ -5,6 +5,7 @@ I love making sense of the world through data.
 - Work :office:: fintech analytics (prev: analytics for supply chain, ed-tech)
 - Other interest :eyes: : sports analytics (football, cricket, basketball)
 - Learning 🌱: NLP for code-mixed text (last project), data warehouse design 
+- Website :desktop_computer:: https://www.kruthikakumar.com/ 
 - Reach me 📫: ran-discus0b@icloud.com
 
 <!--
