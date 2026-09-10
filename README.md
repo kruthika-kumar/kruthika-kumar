@@ -1,24 +1,9 @@
-### Hi there 👋
+### Hi, I’m Kruthika 👋
 
-I love making sense of the world through data. 
+I’m a Data & AI leader and builder. I’m interested in how increasingly capable AI systems can amplify skilled humans while preserving judgment, control, and accountability.
 
-- Work :office:: fintech analytics (prev: analytics for supply chain, ed-tech)
-- Other interest :eyes: : sports analytics (football, cricket, basketball)
-- Learning 🌱: NLP for code-mixed text (last project), data warehouse design 
-- Website :desktop_computer:: https://www.kruthikakumar.com/ 
-- Reach me 📫: ran-discus0b@icloud.com
-
-<!--
-**kruthika-kumar/kruthika-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Previously:** Director of Analytics at Razorpay; ~14 years across fintech, logistics, and ed-tech
+- **Building:** open-source systems for reliable, human-directed AI and agentic workflows
+- **Current work:** [Provan](https://github.com/kruthika-kumar/provan) and related work on agent reliability, evaluation, and human–AI collaboration
+- **Other interests:** experimentation, causal inference, analytics systems, and sports analytics
+- **Website:** https://www.kruthikakumar.com/
