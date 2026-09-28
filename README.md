@@ -1,4 +1,4 @@
-### Hi, I’m Kruthika 👋
+### Hi, I’m Kruthika Kumar 👋
 
 I’m a Data & AI leader and builder. I’m interested in how increasingly capable AI systems can amplify skilled humans while preserving judgment, control, and accountability.
 
